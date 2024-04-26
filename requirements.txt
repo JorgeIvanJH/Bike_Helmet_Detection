@@ -1,0 +1,2 @@
+ipykernel==6.16.2
+ultralytics==8.0.145
