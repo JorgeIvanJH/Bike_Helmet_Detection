@@ -1,3 +1,7 @@
-/Bike_Helmet_Dataset
-Bike_Helmet_Dataset
-.
+Bike_Helmet_Dataset/test/images
+Bike_Helmet_Dataset/test/labels
+Bike_Helmet_Dataset/train/images
+Bike_Helmet_Dataset/train/labels
+Bike_Helmet_Dataset/valid/images
+Bike_Helmet_Dataset/valid/labels
+
